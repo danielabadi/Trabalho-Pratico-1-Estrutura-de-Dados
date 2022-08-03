@@ -10,10 +10,10 @@ Como Rick é muito ocupado, ele pediu para você desenvolver um programa que, da
 ## Detalhes do problema
 
 O objetivo deste trabalho é praticar os conceitos relacionados a estruturas de dados elementares. Você deverá desenvolver um programa que atenda os seguintes critérios:
-• Ler a medida dos recipientes do laboratório (o número máximo de recipientes não é conhecido);
-• Ler a informação de que um recipiente foi quebrado;
-• Ler a medição requerida por Rick;
-• Informar o número mínimo de operações necessárias para conseguir a medida exata desejada por Rick;
+- Ler a medida dos recipientes do laboratório (o número máximo de recipientes não é conhecido);
+- Ler a informação de que um recipiente foi quebrado;
+- Ler a medição requerida por Rick;
+- Informar o número mínimo de operações necessárias para conseguir a medida exata desejada por Rick;
  
 Para ilustrar o problema, vamos considerar o seguinte caso: no laboratório de Rick, há apenas 3 recipientes: 100 ml; 300 ml; e 500 ml. Rick quer medir 400 ml. Há diferentes manipulações possíveis para atingir a quantidade, podemos citar:
 1. Adicionar 500 ml e depois retirar 100 ml;
