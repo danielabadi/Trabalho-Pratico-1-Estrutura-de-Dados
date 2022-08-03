@@ -1,4 +1,4 @@
-# Trabalho Prático 1: O problema da mediçãao de Rick Sanchez
+# Trabalho Prático 1: O problema da medição de Rick Sanchez
 ## Introdução
 
 Rick Sanchez é o mais brilhante cientista que já caminhou pela humanidade, sendo responsável pelo início da exploração do multiverso por meio de seu aparato de portais interdimensionais. Cotidianamente, Rick realiza experimentos científicos, que necessitam de medições muito cautelosas de diferentes tipos de reagentes.
